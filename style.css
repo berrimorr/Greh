@@ -1,0 +1,18 @@
+*{
+background: url(back.jpeg);
+}
+header{
+align: center;
+ background: black;
+}
+.white {
+text-align:center;
+color: white;
+background: black;
+
+}
+li{
+color: white;
+background: black;
+
+}
